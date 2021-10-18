@@ -1,4 +1,4 @@
-click 👉 https://the-young-programmer.github.io/The-Young-Programmer/
+My Web Page 👉 https://the-young-programmer.github.io/The-Young-Programmer/
 
 <!--
 **The-Young-Programmer/The-Young-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![profile_card](https://user-images.githubusercontent.com/79866006/137821549-d98d940c-fd56-42b1-a0a2-49cbfefa20d9.jpg)
+
+
+![profile_card](https://user-images.githubusercontent.com/79866006/137822004-474b2c9c-b63c-4a8c-aaa4-a46a170f7b72.jpg)
+
 
