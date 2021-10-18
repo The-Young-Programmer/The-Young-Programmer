@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
+![profile_card_1](https://user-images.githubusercontent.com/79866006/137822173-f8470208-a579-412d-8851-af8d8547107b.jpg)
 
-![profile_card](https://user-images.githubusercontent.com/79866006/137822004-474b2c9c-b63c-4a8c-aaa4-a46a170f7b72.jpg)
 
 
