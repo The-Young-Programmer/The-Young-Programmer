@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-![image](https://user-images.githubusercontent.com/79866006/147908736-653ed42e-d171-4ea9-95e3-f863fc5b064e.png)
+![image](https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&theme=midnight-purple)
 
 
-![image](https://user-images.githubusercontent.com/79866006/147908766-d6cd2684-bfde-4c39-a605-a7f6e9305f0f.png)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&theme=midnight-purple)
