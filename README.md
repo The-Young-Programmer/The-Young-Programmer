@@ -28,13 +28,12 @@ Here are some ideas to get you started:
 #### 
 <img src="https://media4.giphy.com/media/Ieo88333eatH73xKQG/giphy_s.gif" width="45"> Social Media <img src="https://media4.giphy.com/media /Ieo88333eatH73xKQG/giphy_s.gif" width="45">
 <div>
-<a href="https://www.instagram.com/t_nemonet " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href="https://www.instagram.com/t_nemonet " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge&logo=in https:twitter stagram&logoColor=white" target="_blank"></a>
 <a href="mailto:the.young.programmer.team@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"></a>
-  
-<a ? " tget=
+ <a href="https://mobile.twitter.com/TNemonet" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg&logoColor=white" target="_blank"></a>
 
-![ animation](https://github.com/The-Young-Programmer/The-Young-Programmer/blob/output/github-contribution-grid-snake.svg)
+
+![ animation](h
 
 
 
