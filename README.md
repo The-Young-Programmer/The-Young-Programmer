@@ -5,8 +5,9 @@
   <a href="#"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/></a>
   
   <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
-<a href="mailto:the.young.programmer.team@gmail.com"/><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
-  
+  <a href="mailto:the.young.programmer.team@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
   
   
  ## My Profile Card 🎴
@@ -66,9 +67,6 @@
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
 <p align="center">
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> 
-</p>
-<p align="center">
- <a href="#"/><img alt="TYP Github Status" src="https://github-profile-trophy.vercel.app/?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&style=flat&bg_color=0D1117" width="90%"/></a>
 </p>
 
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
