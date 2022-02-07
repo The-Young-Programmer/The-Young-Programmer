@@ -59,12 +59,6 @@
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-# GitHub Sponsors
-I'm looking for [GitHub sponsors](https://github.com/sponsors/The-Young-Programmer).
-<p align="center">
-<a href="https://github.com/sponsors/The-Young-Programmer">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-</a></p>
 
 
 # contact
@@ -76,6 +70,6 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/The-Young-Programm
 
 
 
-
+# 
 
 
