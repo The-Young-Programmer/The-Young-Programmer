@@ -1,8 +1,9 @@
 # My Web Page 🌐
  
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=The-Young-Programmer.The-Young-Programmer" />
-<img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Follow&style=flat&color=0e75b6" alt="The Young Programmer"/>
+<img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=social&color=0e75b6" alt="The Young Programmer"/>
 
   
   
