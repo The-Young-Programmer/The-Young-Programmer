@@ -26,7 +26,6 @@
 ###  My Github Stats 📊
 
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&bg_color=0D1117"/></a> 
-
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&bg_color=0D1117"/></a> 
 
 
