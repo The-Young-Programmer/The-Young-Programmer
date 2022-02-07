@@ -2,8 +2,7 @@
  
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/></p>
+  <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
 
   
   
