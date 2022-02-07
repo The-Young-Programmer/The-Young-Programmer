@@ -25,7 +25,7 @@
 
 ###  My Github Stats 📊
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/The-Young-Programmer/The-Young-Programmer/
+<a href="#"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/The-Young-Programmer/The-Young-Programmer"/></a>
 
 
 
