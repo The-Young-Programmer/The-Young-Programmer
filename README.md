@@ -73,7 +73,7 @@
 
 
 [![Support Us]
-(https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0 "Buy Me a Coffee at #")](#)
+(https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0 "Buy Me a Coffee at typ.com")](https://github.com/The-Young-Programmer)
 
 
 # contact
