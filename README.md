@@ -73,7 +73,7 @@
 
 
 [![Support Us]
-(https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0 "Buy Me a Coffee")](#)
+(https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0 "Buy Me a Coffee at #")](#)
 
 
 # contact
