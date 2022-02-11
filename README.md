@@ -72,6 +72,8 @@
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+[![Support Us]
+(https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0 "Buy Me a Coffee")](#)
 
 
 # contact
