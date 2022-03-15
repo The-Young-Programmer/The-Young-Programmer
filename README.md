@@ -45,6 +45,7 @@
 <a href="#"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
+<br />
 <h2 align="center">
 🔰 Have Experince in 🔰:
 </h2>
@@ -60,6 +61,7 @@
 <a href="#"/><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
 
 
+<br />
 <h2 align="center">
 🔰 OS Experience 🔰:
 </h2>
@@ -71,6 +73,7 @@
 <a href="#"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 
 
+<br />
 <h2 align="center">
 📖 Currently Learning 📖 
  </h2>
@@ -82,6 +85,7 @@
 <a href="#"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 
 
+<br />
 <h1 align="center">
 📊 My Github Stats 📊
 </h1>
@@ -95,11 +99,26 @@
 
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br />
+<h2 align="center">
+📊 Quote Of The Day 📊
+</h2>
+
+<!--START_SECTION:waka-->
+
+```text
+
+No Bug No Life.
+
+```
+
+<!--END_SECTION:waka-->
+<br>
+
 
 <p align="center">
 <a href="#"/><img src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0"/></a>
-</p>
-
+</p><br>
 
 <h1 align="center">
  contact
