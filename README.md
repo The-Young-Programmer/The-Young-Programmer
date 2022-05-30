@@ -25,7 +25,7 @@
  🎴 My Profile Card 🎴
  </h2>
 
- ![137822545-89af24b3-51fd-463f-bc96-2ffbe3d05041](https://user-images.githubusercontent.com/79866006/152712597-d3d0ca63-ed26-4c4c-bf2e-437ec25b1793.jpg)
+![Screenshot_20220530-022534](https://user-images.githubusercontent.com/79866006/170902054-b0bdc0cf-d257-425a-981c-1a0219be7b6c.jpg)
 
 
 <br />
