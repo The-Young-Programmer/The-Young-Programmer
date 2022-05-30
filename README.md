@@ -77,6 +77,29 @@
 <a href="#"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 
 <br />
+
+<!--
+<details> 
+  <summary>📘 Some of my projects</summary>
+  <br/>
+
+  <p align="left">
+  <a href="https://github.com/ericxlima/Hand_Gestures_LIBRAS">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Hand_Gestures_LIBRAS&theme=react&bg_color=0D1117" alt="Hand_Gestures_LIBRAS"></a>
+  <a href="https://github.com/ericxlima/Pandora_vs_UFPE">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Pandora_vs_UFPE&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
+  <a href="https://github.com/ericxlima/Matrix_Processor">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Matrix_Processor&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
+  </p>
+
+ <p align="left">
+  <a href="https://github.com/ericxlima?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+</details>
+-->
+
+
+<br />
 <h1 align="center">
 📊 My Github Stats 📊
 </h1>
