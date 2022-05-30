@@ -138,7 +138,7 @@ body {
 	line-height: 40px;
 }
 
-.social-icons a.fb i {
+.social-icons a.gh i {
 	color: #4267B2;
 }
 
@@ -150,8 +150,8 @@ body {
 	color: #E1306C;
 }
 
-.social-icons a.yt i {
-	color: #ff0000;
+.social-icons a.in i {
+	color: #0000ff;
 }
 
 .wrapper .buttons {
