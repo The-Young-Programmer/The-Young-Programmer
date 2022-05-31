@@ -64,6 +64,54 @@
 
 
 
+<!--
+<a href="#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" target="_blank">
+<img src="./img/flask.png" width="35"/>
+</a>
+
+<a href="https://www.mysql.com/" alt="MySQL" target="_blank">
+<img src="./img/mysql.png" width="35"/>
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+</a>
+
+<a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+</a>
+
+<a href="https://git-scm.com/" alt="Git" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+</a>
+
+<a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+</a>
+
+<a href="https://linuxfoundation.org/" alt="Linux" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="35"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
+<img src="./img/bash.png" width="35"/>
+</a>
+
+-->
+
 
 
 
