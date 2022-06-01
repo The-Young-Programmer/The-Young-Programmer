@@ -33,25 +33,41 @@
   👨‍💻 Languages | Tools | Experience  👨‍💻
  </h2>
  
-<a href="#"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a hreg="#"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+</a>
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+</a>
+
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-<a htef="#"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
+<a href="#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
@@ -59,58 +75,10 @@
 <a href="#"/><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-
-
-
-
-<!--
-<a href="#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" target="_blank">
-<img src="./img/flask.png" width="35"/>
-</a>
-
-<a href="https://www.mysql.com/" alt="MySQL" target="_blank">
-<img src="./img/mysql.png" width="35"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
-</a>
-
-<a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
-</a>
-
-<a href="https://git-scm.com/" alt="Git" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-</a>
-
-<a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-</a>
-
-<a href="https://linuxfoundation.org/" alt="Linux" target="_blank">
+<a href="#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="35"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
-<img src="./img/bash.png" width="35"/>
-</a>
-
--->
 
 
 
