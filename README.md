@@ -52,9 +52,15 @@
 <a href="#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
 </a>
+<a href="#">
+<img src="./img/flask.png" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/></a>
 <a href="#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+</a>
+<a href="#">
+<img src="./img/mysql.png" width="35"/>
 </a>
 <a href="#"/><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
 <a href="#"/>
@@ -70,6 +76,9 @@
 </a>
 <a href="#"/><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
+<a href="#">
+<img src="./img/bash.png" width="35"/>
+</a>
 <a href="#"/><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
