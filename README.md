@@ -49,14 +49,14 @@
 <a href="#"><img src="./perl.png" width="35"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/></a>
 <a href="#"><img src="./mysql.png" width="35"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
+<a href="#"><img src="./asm.png" width="35"/></a>
 <a href="#"><img src="./github.png" width="35"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+<a href="#"><img src="./blogger.png" width="35"/></a>
+<a href="#"><img src="./wix.png" width="35"/></a>
+<a href="#"><img src="./wordpress.png" width="35"/></a>
+<a href="#"><img src="./andriod_studio.png" width="35"/></a>
+<a href="#"><img src="./arduino.png" width="35"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
