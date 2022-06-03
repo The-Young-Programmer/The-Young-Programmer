@@ -59,11 +59,11 @@
 <a href="#"><img src="./arduino.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
 <a href="#"><img src="./rasberry_pi.png" width="40"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
+<a href="#"><img src="./power_shell.png" width="40"/></a>
 <a href="#"><img src="./bash.png" width="40"/></a>
 <a href="#"><img src="./terminal.png" width="40"/></a>
 <a href="#"><img src="./android_os.png" width="40"/></a>
-<a href="#"/><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
+<a href="#"><img src="./kali.jpeg" width="40"/></a>
 <a href="#"><img src="./tails.png" width="40"/></a>
 <a href="#"><img src="./windows_os.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40"/></a>
