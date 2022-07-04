@@ -37,35 +37,35 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="#"><img src="./cplusplus.png" width="40"/></a>
-<a href="#"><img src="./c.png" width="40"/></a>
-<a href="#"><img src="./jquery.png" width="40"/></a>
-<a href="#"><img src="./angularjs.png" width="40"/></a>
+<a href="#"><img src="imgs/cplusplus.png" width="40"/></a>
+<a href="#"><img src="imgs/c.png" width="40"/></a>
+<a href="#"><img src="imgs/jquery.png" width="40"/></a>
+<a href="#"><img src="imgs/angularjs.png" width="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-<a href="#"><img src="./django.png" width="40"/></a>
-<a href="#"><img src="./flask.png" width="40"/></a>
-<a href="#"><img src="./php.png" width="40"/></a>
-<a href="#"><img src="./perl.png" width="40"/></a>
+<a href="#"><img src="imgs/django.png" width="40"/></a>
+<a href="#"><img src="imgs/flask.png" width="40"/></a>
+<a href="#"><img src="imgs/php.png" width="40"/></a>
+<a href="#"><img src="imgs/perl.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></a>
-<a href="#"><img src="./mysql.png" width="40"/></a>
-<a href="#"><img src="./asm.png" width="40"/></a>
-<a href="#"><img src="./github.png" width="40"/></a>
+<a href="#"><img src="imgs/mysql.png" width="40"/></a>
+<a href="#"><img src="imgs/asm.png" width="40"/></a>
+<a href="#"><img src="imgs/github.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
-<a href="#"><img src="./blogger.png" width="40"/></a>
-<a href="#"><img src="./wix.png" width="40"/></a>
-<a href="#"><img src="./wordpress.png" width="40"/></a>
-<a href="#"><img src="./andriod_studio.png" width="40"/></a>
-<a href="#"><img src="./arduino.png" width="40"/></a>
+<a href="#"><img src="imgs/blogger.png" width="40"/></a>
+<a href="#"><img src="imgs/wix.png" width="40"/></a>
+<a href="#"><img src="imgs/wordpress.png" width="40"/></a>
+<a href="#"><img src="imgs/andriod_studio.png" width="40"/></a>
+<a href="#"><img src="imgs/arduino.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
-<a href="#"><img src="./rasberry_pi.png" width="40"/></a>
-<a href="#"><img src="./power_shell.png" width="40"/></a>
-<a href="#"><img src="./bash.png" width="40"/></a>
-<a href="#"><img src="./terminal.png" width="40"/></a>
-<a href="#"><img src="./android_os.png" width="40"/></a>
-<a href="#"><img src="./kali.jpeg" width="40"/></a>
-<a href="#"><img src="./tails.png" width="40"/></a>
-<a href="#"><img src="./windows_os.png" width="40"/></a>
+<a href="#"><img src="imgs/rasberry_pi.png" width="40"/></a>
+<a href="#"><img src="imgs/power_shell.png" width="40"/></a>
+<a href="#"><img src="imgs/bash.png" width="40"/></a>
+<a href="#"><img src="imgs/terminal.png" width="40"/></a>
+<a href="#"><img src="imgs/android_os.png" width="40"/></a>
+<a href="#"><img src="imgs/kali.jpeg" width="40"/></a>
+<a href="#"><img src="imgs/tails.png" width="40"/></a>
+<a href="#"><img src="imgs/windows_os.png" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40"/></a>
 
 
@@ -76,10 +76,10 @@
 <h2 align="center">
 📖 Currently Learning 📖 
  </h2>
-<a href="#"><img src="./kotlin.png" width="40"/></a>
+<a href="#"><img src="imgs/kotlin.png" width="40"/></a>
 <a href="#"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="#"><img src="./java.png" width="40"/></a>
-<a href="#"><img src="./csharp.png" width="40"/></a>
+<a href="#"><img src="imgs/java.png" width="40"/></a>
+<a href="#"><img src="imgs/csharp.png" width="40"/></a>
 
 <br />
 
