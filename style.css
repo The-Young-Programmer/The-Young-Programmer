@@ -616,6 +616,26 @@ h1 {
 
 
 
+button {
+	font-family: sans-serif;
+	border: none; 
+	font-size: 15px; 
+	outline: none; 
+	border-radius: 10px; 
+	padding: 10px 20px; 
+	background-color: rgb(23, 52, 89); 
+	color: #f8f8f9;
+	-webkit-transition-duration: 1s;
+	transition-duration: 1s;
+}
+
+button:hover {
+	background-color: #f8f9f9;
+	color: red;
+	cursor: pointer;
+}
+
+
 
 .sec3 {
     position: relative;
