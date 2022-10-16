@@ -33,7 +33,7 @@
 ![Screenshot_20220530-022534](https://user-images.githubusercontent.com/79866006/170902054-b0bdc0cf-d257-425a-981c-1a0219be7b6c.jpg)
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
 
 
@@ -82,7 +82,7 @@
 
 
 <br />
-<h2 align="center">
+<h2 align="left">
 📖 Currently Learning 📖 
  </h2>
 <a href="#"><img src="imgs/kotlin.png" width="40"/></a>
@@ -94,7 +94,7 @@
 
 
 <details> 
-  <summary><h2> 🔰 Some of my projects</h2></summary>
+ <summary> <h2> 🔰 Some of my projects </h2><hr></summary>
   <br/>
 
   <p align="left">
@@ -117,9 +117,11 @@
 
 
 <br />
+
 <h1 align="center">
 📊 My Github Stats 📊
 </h1>
+ 
  
 <p align="center">
 <a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
@@ -131,18 +133,19 @@
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br />
+<!--
 <h2 align="center">
 📊 Quote Of The Day 📊
-</h2>
+</h2>-->
 
 <!--START_SECTION:waka-->
-
+<!--
 ```text
 
 No Bug No Life.
 
 ```
-
+-->
 <!--END_SECTION:waka-->
 <br>
 
