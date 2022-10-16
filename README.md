@@ -1,12 +1,18 @@
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Nemonet-🔰-TYP&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=20"/>
+
+<!--
 <h1 align="center">
 🌐 My Web Page 🌐
 </h1>
+-->
 
  <p align="center">
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
   <a href="https://the-young-programmer.github.io/The-Young-Programmer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
   <a href="#"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/></a>
   </p>
+
   
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=The-Young-Programmer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/The-Young-Programmer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
@@ -14,18 +20,21 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
-  
+
   <p align="center">
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
- </p>
-  
-  
+  <!--
   <h2 align="center">
  🎴 My Profile Card 🎴
  </h2>
 
 ![Screenshot_20220530-022534](https://user-images.githubusercontent.com/79866006/170902054-b0bdc0cf-d257-425a-981c-1a0219be7b6c.jpg)
+-->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
 
 
 <br />
@@ -81,27 +90,30 @@
 <a href="#"><img src="imgs/java.png" width="40"/></a>
 <a href="#"><img src="imgs/csharp.png" width="40"/></a>
 
-<br />
+<br /><br />
 
-<!--
+
 <details> 
-  <summary>📘 Some of my projects</summary>
+  <summary><h2> 🔰 Some of my projects</h2></summary>
   <br/>
 
   <p align="left">
-  <a href="https://github.com/ericxlima/Hand_Gestures_LIBRAS">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Hand_Gestures_LIBRAS&theme=react&bg_color=0D1117" alt="Hand_Gestures_LIBRAS"></a>
-  <a href="https://github.com/ericxlima/Pandora_vs_UFPE">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Pandora_vs_UFPE&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
-  <a href="https://github.com/ericxlima/Matrix_Processor">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Matrix_Processor&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
+  <a href="https://github.com/The-Young-Programmer/Math-Quize">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+
+  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+
+  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming-Project&theme=react&bg_color=0D1117" alt="C/C++"></a>
+
   </p>
 
  <p align="left">
-  <a href="https://github.com/ericxlima?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
--->
+
 
 
 <br />
@@ -150,6 +162,7 @@ No Bug No Life.
 <a href="https://www.linkedin.com/in/typ-nemonet"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-# 
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=footer&fontSize=40&fontColor=fff&animation=twinkling"/>
 
 
