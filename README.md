@@ -38,63 +38,58 @@
 
 
 <br />
-<h2 align="center">
-  👨‍💻 Languages | Tools | Experience  👨‍💻
- </h2>
+<h4 align="center">
+  👨‍💻 Languages | Tools  👨‍💻
+ </h4>
  
 
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="#"><img src="imgs/cplusplus.png" width="40"/></a>
-<a href="#"><img src="imgs/c.png" width="40"/></a>
-<a href="#"><img src="imgs/jquery.png" width="40"/></a>
-<a href="#"><img src="imgs/angularjs.png" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-<a href="#"><img src="imgs/django.png" width="40"/></a>
-<a href="#"><img src="imgs/flask.png" width="40"/></a>
-<a href="#"><img src="imgs/php.png" width="40"/></a>
-<a href="#"><img src="imgs/perl.png" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></a>
-<a href="#"><img src="imgs/mysql.png" width="40"/></a>
-<a href="#"><img src="imgs/asm.png" width="40"/></a>
-<a href="#"><img src="imgs/github.png" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
-<a href="#"><img src="imgs/blogger.png" width="40"/></a>
-<a href="#"><img src="imgs/wix.png" width="40"/></a>
-<a href="#"><img src="imgs/wordpress.png" width="40"/></a>
-<a href="#"><img src="imgs/andriod_studio.png" width="40"/></a>
-<a href="#"><img src="imgs/arduino.png" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
-<a href="#"><img src="imgs/rasberry_pi.png" width="40"/></a>
-<a href="#"><img src="imgs/power_shell.png" width="40"/></a>
-<a href="#"><img src="imgs/bash.png" width="40"/></a>
-<a href="#"><img src="imgs/terminal.png" width="40"/></a>
-<a href="#"><img src="imgs/android_os.png" width="40"/></a>
-<a href="#"><img src="imgs/kali.jpeg" width="40"/></a>
-<a href="#"><img src="imgs/tails.png" width="40"/></a>
-<a href="#"><img src="imgs/windows_os.png" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></a>
+<a href="#"><img src="imgs/cplusplus.png" width="20"/></a>
+<a href="#"><img src="imgs/c.png" width="20"/></a>
+<a href="#"><img src="imgs/jquery.png" width="20"/></a>
+<a href="#"><img src="imgs/angularjs.png" width="20"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></a>
+<a href="#"><img src="imgs/django.png" width="20"/></a>
+<a href="#"><img src="imgs/flask.png" width="20"/></a>
+<a href="#"><img src="imgs/php.png" width="20"/></a>
+<a href="#"><img src="imgs/perl.png" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/></a>
+<a href="#"><img src="imgs/mysql.png" width="20"/></a>
+<a href="#"><img src="imgs/asm.png" width="20"/></a>
+<a href="#"><img src="imgs/github.png" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/></a>
+<a href="#"><img src="imgs/blogger.png" width="20"/></a>
+<a href="#"><img src="imgs/wix.png" width="20"/></a>
+<a href="#"><img src="imgs/wordpress.png" width="20"/></a>
+<a href="#"><img src="imgs/andriod_studio.png" width="20"/></a>
+<a href="#"><img src="imgs/arduino.png" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/></a>
+<a href="#"><img src="imgs/rasberry_pi.png" width="20"/></a>
+<a href="#"><img src="imgs/power_shell.png" width="20"/></a>
+<a href="#"><img src="imgs/bash.png" width="20"/></a>
+<a href="#"><img src="imgs/terminal.png" width="20"/></a>
+<a href="#"><img src="imgs/android_os.png" width="20"/></a>
+<a href="#"><img src="imgs/kali.jpeg" width="20"/></a>
+<a href="#"><img src="imgs/tails.png" width="20"/></a>
+<a href="#"><img src="imgs/windows_os.png" width="20"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="20"/></a>
 
 
-
-
-
-<br />
-<h2 align="left">
+<h4 align="left">
 📖 Currently Learning 📖 
  </h2>
-<a href="#"><img src="imgs/kotlin.png" width="40"/></a>
-<a href="#"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="#"><img src="imgs/java.png" width="40"/></a>
-<a href="#"><img src="imgs/csharp.png" width="40"/></a>
+<a href="#"><img src="imgs/kotlin.png" width="20"/></a>
+<a href="#"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></a>
+<a href="#"><img src="imgs/java.png" width="20"/></a>
+<a href="#"><img src="imgs/csharp.png" width="20"/></a>
 
-<br /><br />
-
+<br />
 
 <details> 
- <summary> <h2> 🔰 Some of my projects </h2><hr></summary>
+ <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
   <br/>
 
   <p align="left">
@@ -115,24 +110,20 @@
 </details>
 
 
-
-<br />
-
-<h1 align="center">
+<h4 align="center">
 📊 My Github Stats 📊
-</h1>
+</h4>
  
  
 <p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
-<p align="center">
-<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
-
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a> 
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
+</p>
+<p>
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
-<br />
 <!--
 <h2 align="center">
 📊 Quote Of The Day 📊
@@ -147,23 +138,22 @@ No Bug No Life.
 ```
 -->
 <!--END_SECTION:waka-->
-<br>
 
 
 <p align="center">
 <a href="#"/><img src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0"/></a>
-</p><br>
+</p>
 
-<h1 align="center">
+<h4 align="center">
  contact
-</h1>
+</h4>
 
  <p align="center">
 <a href="mailto:the.young.programmer.team@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/t_nemonet"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/tnemonet"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/typ-nemonet"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+</p>
 
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=footer&fontSize=40&fontColor=fff&animation=twinkling"/>
