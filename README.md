@@ -49,11 +49,13 @@
 <a href="#"><img src="imgs/cplusplus.png" width="20"/></a>
 <a href="#"><img src="imgs/c.png" width="20"/></a>
 <a href="#"><img src="imgs/jquery.png" width="20"/></a>
-<a href="#"><img src="imgs/angularjs.png" width="20"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="20" height="20" alt="Angular" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></a>
 <a href="#"><img src="imgs/django.png" width="20"/></a>
 <a href="#"><img src="imgs/flask.png" width="20"/></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="20" height="20" alt="Kotlin" /></a>
 <a href="#"><img src="imgs/php.png" width="20"/></a>
 <a href="#"><img src="imgs/perl.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/></a>
@@ -76,15 +78,26 @@
 <a href="#"><img src="imgs/tails.png" width="20"/></a>
 <a href="#"><img src="imgs/windows_os.png" width="20"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="20"/></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="20" height="20" alt="Oracle" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="20" height="20" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="20" height="20@" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="20" height="20" alt="XD" /></a>
+
+
 
 
 <h4 align="left">
 📖 Currently Learning 📖 
- </h2>
-<a href="#"><img src="imgs/kotlin.png" width="20"/></a>
-<a href="#"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></a>
-<a href="#"><img src="imgs/java.png" width="20"/></a>
+ </h4>
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="NodeJS" /></a>
 <a href="#"><img src="imgs/csharp.png" width="20"/></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="20" height="20" alt="Swift" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="20" height="20" alt="Ruby" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="20" height="20" alt="Go" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="20" height="20" alt="Firebase" /></a>
 
 <br />
 
@@ -140,21 +153,20 @@ No Bug No Life.
 <!--END_SECTION:waka-->
 
 
-<p align="center">
-<a href="#"/><img src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0"/></a>
-</p>
-
-<h4 align="center">
+<h4 align="left">
  contact
 </h4>
-
- <p align="center">
-
+<p align="left">
  <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
  <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
- <a href="mailto:the.young.programmer.team@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="20" height="20" /></a>
-</p>
+ <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
+
+<h4>Support Me</h4>
+
+<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
 
 
 
