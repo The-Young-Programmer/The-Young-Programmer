@@ -105,7 +105,7 @@
 <br />
 
 <details> 
- <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
+ <summary> <h3> 🔰 Some of my projects </h3><hr></summary>
   <br/>
 
   <p align="left">
@@ -114,7 +114,9 @@
   <a href="https://github.com/The-Young-Programmer/Hangman-Game">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming-Project&theme=react&bg_color=0D1117" alt="C/C++"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/The-Young-Programmer/QBasic">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
   
   </p>
 
