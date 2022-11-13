@@ -133,11 +133,7 @@
 <h4 align="center">
 📊 My Github Stats 📊
 </h4>
-<!--
- <p>
-<b>Note:</b> Most used language is only a metric of the language my public code consist of and doesn't reflect experience or skill level.
- </p>
--->
+
  
  <div align="center">
 <a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
@@ -147,13 +143,13 @@
 
 
 <h4 align="left">
-<!-- Quote Of The Day --> Fun Fact 
+<!-- Quote Of The Day --> Fun Fact Of The Day
 </h4>
 <!--
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
 -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
   
 <hr>
 
