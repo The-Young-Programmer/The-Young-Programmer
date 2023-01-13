@@ -55,6 +55,7 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
 <code><img src="imgs/php.png" width="30" height="30"/></code>
 <code><img src="imgs/mysql.png" width="30"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
 <code><img src="imgs/arduino.png" width="30" heigjt="30"/></code>
 <code><img src="imgs/kali.jpeg" width="30"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="30"/></code>
