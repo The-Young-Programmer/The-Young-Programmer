@@ -47,12 +47,11 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h4>
  
-<code><img src="https://user-images.githubusercontent.com/79866006/220227415-a9f3e487-9254-4027-b48c-1a056e228944.png" width="45"/></code>
-<code><img src="https://user-images.githubusercontent.com/79866006/220228022-579ded45-3e31-4c65-957d-ce2da87abd01.png" width="45"/></code>
-<code><img src="imgs/cplusplus.png" width="30"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="30" alt="Java" /></code>
+<code><img src="imgs/gradient/js-format.png" width="45"/></code>
+<code><img src="imgs/gradient/cpp.png" width="45"/></code>
+<code><img src="imgs/gradient/atom.png" width="45"/></code>
+<code><img src="imgs/gradient/python-file.png" width="45"/></code>
+<code><img src="imgs/gradient/java.png" width="45"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
 <code><img src="imgs/php.png" width="30" height="30"/></code>
 <code><img src="imgs/mysql.png" width="30"/></code>
