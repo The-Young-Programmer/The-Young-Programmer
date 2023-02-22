@@ -53,8 +53,8 @@
 <code><img src="imgs/gradient/python-file.png" width="35"/></code>
 <code><img src="imgs/gradient/java.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
-<code><img src="imgs/php.png" width="30" height="30"/></code>
-<code><img src="imgs/mysql.png" width="30"/></code>
+<code><img src="imgs/gradient/php.png" width="35"/></code>
+<code><img src="imgs/gradient/sql.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
 <code><img src="imgs/arduino.png" width="30" heigjt="30"/></code>
 <code><img src="imgs/kali.jpeg" width="30"/></code>
@@ -100,7 +100,7 @@
  </h4>
 
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="imgs/csharp.png" width="30"/></code>
+<code><img src="imgs/gradient/c-sharp.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="30" height="30" alt="Swift" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="30" height="30" alt="Ruby" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
