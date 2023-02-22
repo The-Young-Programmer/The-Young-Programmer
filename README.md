@@ -58,9 +58,9 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
 <code><img src="imgs/arduino.png" width="30" heigjt="30"/></code>
 <code><img src="imgs/kali.jpeg" width="30"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="30"/></code>
+<code><img src="imgs/gradient/linux--v2.png"  width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></code>
+<code><img src="imgs/gradient/figma-512.png" width="35" alt="Figma" /></code>
 
 
 <!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></code>
@@ -101,8 +101,8 @@
 
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
 <code><img src="imgs/gradient/c-sharp.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="30" height="30" alt="Swift" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="30" height="30" alt="Ruby" /></code>
+<code><img src="imgs/gradient/swift-512.png" width="35" alt="Swift" /></code>
+<code><img src="imgs/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 <!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
@@ -168,7 +168,9 @@
  <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/instagram.png" width="30"/></a>
  <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/linkedin.png" width="30" /></a>
  <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/twitter.png" width="30" /></a>
- <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
+ <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="imgs/gradient/github-512.png" width="35" /></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="imgs/gradient/email.png" width="30"/></a>
+
 </p>
 
 <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
