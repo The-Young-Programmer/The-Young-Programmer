@@ -53,10 +53,13 @@
 <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
 <code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
-<code><img src="imgs/kali.jpeg" width="30"/></code>
+<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
 <code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
 <code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
 
 
 <!-- ##### WILL WORK ON THIS LATER ##### -->
@@ -86,7 +89,7 @@
 <!--<code><img src="imgs/tails.png" width="30" height=" "/></code>-->
 <!--<code><img src="imgs/windows_os.png" width="30"/></code>-->
 <!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>-->
+<!---->
 <!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" /></code>-->
 <!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="30" height="30" alt="XD" /></code>-->
 <!--<code><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="30" width="30" border="0"></code>-->
@@ -101,12 +104,12 @@
 📖 Currently Learning 📖 
  </h4>
 
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+
 <code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
 <code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+
 
 
 <!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
