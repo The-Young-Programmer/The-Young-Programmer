@@ -43,20 +43,20 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h4>
  
-<code><img src="imgs/gradient/javascript-512.png" width="35"/></code>
-<code><img src="imgs/gradient/c-plus-plus.png" width="35"/></code>
-<code><img src="imgs/gradient/react-native-512.png" width="35"/></code>
-<code><img src="imgs/gradient/python-512.png" width="35"/></code>
-<code><img src="imgs/gradient/java-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
-<code><img src="imgs/gradient/php.png" width="35"/></code>
-<code><img src="imgs/gradient/sql.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-<code><img src="imgs/gradient/arduino-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
 <code><img src="imgs/kali.jpeg" width="30"/></code>
-<code><img src="imgs/gradient/linux--v2.png"  width="35"/></code>
+<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-<code><img src="imgs/gradient/figma-512.png" width="35" alt="Figma" /></code>
+<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
 
 
 <!-- ##### WILL WORK ON THIS LATER ##### -->
@@ -102,9 +102,9 @@
  </h4>
 
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="imgs/gradient/cs.png" width="35"/></code>
-<code><img src="imgs/gradient/swift-512.png" width="35" alt="Swift" /></code>
-<code><img src="imgs/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
+<code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
+<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 
@@ -194,10 +194,10 @@
 
 <p align="center">
 
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/linkedin-512.png" width="35" /></a>
- <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="imgs/gradient/twitter-512.png" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="imgs/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
+ <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
 
 </p>
 
