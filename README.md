@@ -126,25 +126,16 @@
  <!-- ###### Some of my projects ##### -->
 
 <details>
- 
- <summary> <h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+ <summary><h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
-
-
-  
-
-   <div width="100%" align="center"><a href="https://github.com/The-Young-Programmer/The-Young-Programmer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=The-Young-Programmer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/The-Young-Programmer/C-CPP-Programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+   <div width="100%" align="left"><a href="https://github.com/The-Young-Programmer/The-Young-Programmer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=The-Young-Programmer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/The-Young-Programmer/C-CPP-Programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/The-Young-Programmer/GUI-Scientific-Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=GUI-Scientific-Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/The-Young-Programmer/Hangman-Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-  
- 
 
- <p align="center">
+ <p align="left">
   <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 </details>
 
 <!-- ###### END OF Some of my projects  ##### -->
