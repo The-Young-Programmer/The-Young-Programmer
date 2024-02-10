@@ -4,39 +4,39 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
-    font-family: "Roboto", sans-serif;   
+    font-family: "Roboto", sans-serif;
     color: rgba(0, 0, 0, 0.8);
     line-height: 1.65;
 }
-.fa{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    position:fixed;
-    bottom:700px;
-    right:40px;
-    height:50px;
-    width:50px;
-    background:rgb(226, 69, 69);
-    border-radius:50%;
-    color:#fff;
-    box-shadow:0px 0px 10px rgba(0,0,0,.5);
-    background-position:center;
-    background-repeat:no-repeat;
-    visibility:hidden;
-    opacity:0;
-    transition:.3s;
-    z-index:10000;
+.fa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 700px;
+    right: 40px;
+    height: 50px;
+    width: 50px;
+    background: rgb(226, 69, 69);
+    border-radius: 50%;
+    color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-repeat: no-repeat;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s;
+    z-index: 10000;
 }
-.fa.active{
-    visibility:visible;
-    opacity:1;
-    bottom:40px;
+.fa.active {
+    visibility: visible;
+    opacity: 1;
+    bottom: 40px;
 }
 .sec1 {
     position: relative;
@@ -47,7 +47,7 @@ html {
     justify-content: center;
     align-items: flex-end;
     overflow: hidden;
-    border-bottom: .1rem solid #ccc;
+    border-bottom: 0.1rem solid #ccc;
 }
 .menuBar {
     position: fixed;
@@ -60,8 +60,8 @@ html {
     align-items: center;
     justify-content: center;
     backdrop-filter: blur(10px);
-    box-shadow: 0 0 5rem rgba(0, 0, 0, .5);
-    transition: .5s;
+    box-shadow: 0 0 5rem rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
 }
 .menuBar.active {
     left: 20%;
@@ -79,11 +79,11 @@ html {
     color: #fff;
     font-size: 2rem;
     padding: 1.5rem;
-    transition: .5s;
+    transition: 0.5s;
     background: #e66060;
     padding: 1rem 3rem;
     border-radius: 3rem;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, .5);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
 }
 
 .menuBar ul li a:hover {
@@ -101,7 +101,7 @@ html {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    box-shadow: 0 0 .5rem rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
     z-index: 2000;
 }
 
@@ -110,15 +110,15 @@ html {
     position: relative;
     height: 3rem;
     width: 3rem;
-    background: url('https://i.ibb.co/ccyJDPg/icons8-menu-24.png');
+    background: url("https://i.ibb.co/ccyJDPg/icons8-menu-24.png");
     background-size: contain;
     background-repeat: no-repeat;
     cursor: pointer;
-    transition: .5s;
+    transition: 0.5s;
 }
 
 .sec1__menuIcon.active {
-    background: url('https://i.ibb.co/G9TDqVj/icons8-macos-close-32.png');
+    background: url("https://i.ibb.co/G9TDqVj/icons8-macos-close-32.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -127,7 +127,7 @@ html {
 .navBar .logo h1 {
     color: #333;
     font-size: 2rem;
-    letter-spacing: .2rem;
+    letter-spacing: 0.2rem;
 }
 
 .navBar .navBar__menu ul {
@@ -146,7 +146,7 @@ html {
     font-size: 1.5rem;
     padding-bottom: 1rem;
     color: #333;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .navBar .navBar__menu ul li a:before {
@@ -155,10 +155,10 @@ html {
     content: "";
     bottom: 0;
     left: 0;
-    height: .4rem;
+    height: 0.4rem;
     width: 0%;
     border-radius: 1rem;
-    transition: .4s;
+    transition: 0.4s;
 }
 
 .navBar .navBar__menu ul li a:hover:before {
@@ -205,7 +205,7 @@ html {
     padding: 1rem 2.5rem;
     font-size: 1.5rem;
     border-radius: 1rem;
-    transition: .4s;
+    transition: 0.4s;
 }
 
 .sec1__content a:hover {
@@ -240,7 +240,7 @@ html {
     height: 40%;
     width: 40%;
     border-radius: 30% 50%;
-    box-shadow: 0 0 2rem rgba(0, 0, 0, .2);
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
     background: linear-gradient(rgb(245, 93, 93), rgb(255, 122, 122));
     animation: animate3 ease-in-out 3s infinite;
 }
@@ -264,7 +264,7 @@ html {
     z-index: 1;
     width: 110%;
     object-fit: cover;
-    filter: drop-shadow(0 0 .5rem rgba(0, 0, 0, .5));
+    filter: drop-shadow(0 0 0.5rem rgba(0, 0, 0, 0.5));
 }
 
 .sec1__imgBx .sec1__design1 {
@@ -330,7 +330,7 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    border-bottom: .2rem solid rgb(218, 218, 218);
+    border-bottom: 0.2rem solid rgb(218, 218, 218);
 }
 
 .sec2__heading {
@@ -349,7 +349,7 @@ html {
     position: absolute;
     bottom: 0;
     right: 0;
-    height: .2rem;
+    height: 0.2rem;
     width: 100%;
     background-color: rgb(241, 102, 102);
 }
@@ -369,20 +369,20 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex: .5;
+    flex: 0.5;
 }
 
 .sec2__aboutme1Img {
     position: relative;
     width: 10rem;
     overflow: hidden;
-    border: .3rem solid rgb(156, 60, 60);
-    padding: .3rem;
+    border: 0.3rem solid rgb(156, 60, 60);
+    padding: 0.3rem;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .sec2__aboutme1Img:hover {
@@ -401,18 +401,16 @@ html {
     font-size: 2rem;
     color: #333;
     padding-bottom: 1rem;
-
 }
 .sec2__aboutme1 h3 {
     position: relative;
     font-size: 1.3rem;
     color: #333;
-
 }
 
 .sec2__aboutme1 h2:before {
     position: absolute;
-    height: .2rem;
+    height: 0.2rem;
     width: 60%;
     bottom: 0;
     right: 25%;
@@ -430,19 +428,18 @@ html {
 
 .sec2__aboutme1Social ul li {
     margin: 0 2rem;
-    transition: .3s;
-
+    transition: 0.3s;
 }
 
 .sec2__aboutme1Social ul li a {
     text-decoration: none;
     color: #333;
     font-size: 3rem;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .sec2__aboutme1Social ul li:hover {
-    transform: translateY(-.3rem);
+    transform: translateY(-0.3rem);
 }
 
 .sec2__aboutme1Social ul li:nth-child(1) a:hover {
@@ -455,12 +452,11 @@ html {
 
 .sec2__aboutme1Social ul li:nth-child(3) a:hover {
     color: rgb(85, 109, 219);
-
 }
 
 .sec2__aboutme2 {
     position: relative;
-    flex: .5;
+    flex: 0.5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -469,7 +465,6 @@ html {
 .sec2__aboutme2 p {
     font-size: 1.5rem;
 }
-
 
 /*###################################################*/
 
@@ -531,23 +526,23 @@ html {
     font-size: 15px;
 }
 
- .col-sm-auto {
-        flex: 0 0 auto;
-        width: auto;
-        max-width: 100%;
-    }
+.col-sm-auto {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
 
-    .col-sm-4 {
-        flex: 0 0 33.33333333%;
-        max-width: 33.33333333%;
-    }
+.col-sm-4 {
+    flex: 0 0 33.33333333%;
+    max-width: 33.33333333%;
+}
 @media (min-width: 768px) {
     .col-md {
         flex-basis: 0;
         flex-grow: 1;
         max-width: 100%;
     }
-    
+
     .col-md-auto {
         flex: 0 0 auto;
         width: auto;
@@ -581,7 +576,6 @@ h1 {
     animation-delay: 0.15s;
 }
 
-
 @media screen and (max-width: 768px) {
     .home-section {
         padding: 50px 0 50px 0;
@@ -595,7 +589,6 @@ h1 {
 .section-heading h1 {
     margin: 0 0 20px 0;
 }
-
 
 .featurette {
     font-size: 0.9rem;
@@ -614,47 +607,42 @@ h1 {
 
 /*#########################################################*/
 
-
-
 button {
-	font-family: sans-serif;
-	border: none; 
-	font-size: 15px; 
-	outline: none; 
-	border-radius: 10px; 
-	padding: 10px 20px; 
-	background-color: rgb(23, 52, 89); 
-	color: #f8f8f9;
-	-webkit-transition-duration: 1s;
-	transition-duration: 1s;
+    font-family: sans-serif;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: rgb(23, 52, 89);
+    color: #f8f8f9;
+    -webkit-transition-duration: 1s;
+    transition-duration: 1s;
 }
 
 button:hover {
-	background-color: #f8f9f9;
-	color: red;
-	cursor: pointer;
+    background-color: #f8f9f9;
+    color: red;
+    cursor: pointer;
 }
-
-
 
 .sec3 {
     position: relative;
     min-height: 100vh;
     overflow: hidden;
     width: 100%;
-    background: radial-gradient(#333, #000);
+    background: radial-gradient(#656363, #3a3333);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
 }
 
-
 .sec3 h1 {
     position: relative;
     color: #fff;
     font-size: 5rem;
-    border-bottom: .2rem solid rgb(235, 102, 102);
+    border-bottom: 0.2rem solid rgb(235, 102, 102);
 }
 
 .sec3__container {
@@ -681,8 +669,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: .3s;
-    box-shadow: 0 0 3rem rgba(0, 0, 0, .9);
+    transition: 0.3s;
+    box-shadow: 0 0 3rem rgba(0, 0, 0, 0.9);
     margin: 2rem;
 }
 
@@ -700,9 +688,9 @@ button:hover {
     width: 50%;
     top: 0;
     left: 0;
-    background: rgba(225, 225, 225, .05);
+    background: rgba(225, 225, 225, 0.05);
     z-index: 1;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .sec3__card:hover:before {
@@ -750,9 +738,9 @@ button:hover {
 }
 
 .sec3__text {
-    color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, 0.5);
     margin-top: 3.5rem;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .sec3__card:hover .sec3__text {
@@ -767,10 +755,6 @@ button:hover {
 .sec3__card:hover {
     transform: translateY(-1rem);
 }
-
-
-
-
 
 .sec4 {
     overflow: hidden;
@@ -798,7 +782,7 @@ button:hover {
     justify-content: space-evenly;
     align-items: flex-start;
     flex-direction: column;
-    flex: .5;
+    flex: 0.5;
 }
 
 .sec4__content1 {
@@ -808,12 +792,11 @@ button:hover {
 .sec4__content1 h2 {
     color: #fff;
     font-size: 3rem;
-    border-bottom: .2rem solid #ff7b7b;
+    border-bottom: 0.2rem solid #ff7b7b;
     width: fit-content;
-    padding-bottom: .5rem;
-    margin-bottom: .5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
-
 
 .sec4__content1 h2 span {
     color: #ff6060;
@@ -831,11 +814,11 @@ button:hover {
 }
 
 .sec4__content2Icon h2 {
-    margin-left: .5rem;
+    margin-left: 0.5rem;
 }
 
 .sec4__content2 {
-    margin: .5rem 0;
+    margin: 0.5rem 0;
 }
 
 .sec4__content3 ul {
@@ -853,22 +836,22 @@ button:hover {
 .sec4__content3 ul li a {
     color: #fff;
     font-size: 2rem;
-    border: .2rem solid #fff;
-    padding: .4rem;
+    border: 0.2rem solid #fff;
+    padding: 0.4rem;
     border-radius: 20%;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .sec4__content3 ul li a:hover {
-    color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, 0.5);
 }
 
 .sec4__box2 h2 {
     color: #fff;
     font-size: 3rem;
-    border-bottom: .2rem solid #ff8282;
-    padding-bottom: .5rem;
-    margin-bottom: .5rem;
+    border-bottom: 0.2rem solid #ff8282;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .sec4__links ul {
@@ -880,12 +863,12 @@ button:hover {
 }
 
 .sec4__links ul li {
-    margin: .5rem 0;
+    margin: 0.5rem 0;
 }
 
 .sec4__links ul li a {
-    color: rgba(255, 255, 255, .5);
-    transition: .3s;
+    color: rgba(255, 255, 255, 0.5);
+    transition: 0.3s;
     text-decoration: none;
     font-size: 1.5rem;
 }
@@ -897,9 +880,9 @@ button:hover {
 .sec4__box3 h2 {
     color: #fff;
     font-size: 3rem;
-    border-bottom: .2rem solid #ff7d7d;
-    padding-bottom: .5rem;
-    margin-bottom: .5rem;
+    border-bottom: 0.2rem solid #ff7d7d;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
     width: fit-content;
 }
 
@@ -914,8 +897,8 @@ button:hover {
     border: none;
     outline: none;
     background: #fff;
-    box-shadow: 0 0 2rem rgba(0, 0, 0, .5);
-    padding: .5rem 1rem;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.5);
+    padding: 0.5rem 1rem;
     margin: 1rem 0;
     width: 100%;
     border-radius: 3rem;
@@ -930,13 +913,12 @@ button:hover {
     border: none;
     background: none;
     outline: none;
-    padding: .5rem 2rem;
+    padding: 0.5rem 2rem;
     color: #fff;
     background: #e66060;
     cursor: pointer;
-    transition: .3s;
+    transition: 0.3s;
     border-radius: 3rem;
-
 }
 
 .sec4__box3 form button:hover {
@@ -945,7 +927,7 @@ button:hover {
 }
 
 /* media query start here  */
-@media(max-width:360px) {
+@media (max-width: 360px) {
     .sec1__menuIcon {
         display: inline-block;
     }
@@ -1002,7 +984,7 @@ button:hover {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        flex: .5;
+        flex: 0.5;
         margin: 5rem 0;
     }
 
@@ -1020,7 +1002,7 @@ button:hover {
         justify-content: space-evenly;
         align-items: flex-start;
         flex-direction: column;
-        flex: .5;
+        flex: 0.5;
         margin: 2.5rem 0 4rem 0;
     }
 
@@ -1030,55 +1012,37 @@ button:hover {
 }
 
 footer {
-         color: #fff;
-         background: #333;
-         position: relative; /* required to position the copyright at the bottom */
-         font-size: 100%;
-      }
-      .footer-copyright {
-         width: 100%;
-         height: 0px;
-         background: #111;
-         /* positions the copyright at the bottom of the footer */
-         padding: 25px;
-         position: absolute;
-         bottom: -40px;
-         left: 0px;
-         text-align: center;
-      }
-      .footer-body {
-         margin-bottom: 40px;
-         padding: 25px;
-      }
-      .footer-body > div:first-child {
-         font-size: 170%;
-      }
-      .footer-body ul {
-         list-style-type: none;
-         margin: 0px;
-         padding: 0px;
-         text-align: center;
-      }
-      .footer-body li > a {
-         color: white;
-         text-decoration: none;
-         margin-bottom: 7px;
-      }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    color: #fff;
+    background: #333;
+    position: relative; /* required to position the copyright at the bottom */
+    font-size: 100%;
+}
+.footer-copyright {
+    width: 100%;
+    height: 0px;
+    background: #111;
+    /* positions the copyright at the bottom of the footer */
+    padding: 25px;
+    position: absolute;
+    bottom: -40px;
+    left: 0px;
+    text-align: center;
+}
+.footer-body {
+    margin-bottom: 40px;
+    padding: 25px;
+}
+.footer-body > div:first-child {
+    font-size: 170%;
+}
+.footer-body ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-body li > a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 7px;
+}
